@@ -1,0 +1,100 @@
+* {
+  box-sizing: border-box;
+}
+.con {
+  width: 1180px;
+  margin: 0 auto;
+  padding: 0 20px;
+  display: flex;
+  flex-wrap: wrap;
+}
+body {
+  background-color: rgb(219, 169, 157);
+}
+.k {
+  width: 500px;
+  height: 400px;
+  background-color: brown;
+  padding: 15px;
+  padding-top: 100px;
+  border-radius: 8px;
+}
+.l {
+  background-color: brown;
+}
+.btn-two {
+  border-radius: 8px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.site-box {
+  background-color: brown;
+  border-radius: 8px;
+  margin-bottom: 50px;
+}
+.top {
+  margin-top: 100px;
+}
+.site-two {
+  padding: 5px;
+  border-radius: 8px;
+}
+.site-logo {
+  display: flex;
+  text-decoration-line: none;
+  color: black;
+}
+.site-loo {
+  display: flex;
+  text-decoration-line: none;
+  color: black;
+  margin-left: 100px;
+  margin-right: 80px;
+}
+.site-log {
+  text-decoration-line: none;
+  color: black;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+.site-login {
+  text-decoration-line: none;
+  color: black;
+  padding-left: 200px;
+}
+button {
+  border: none;
+  background-color: rgb(219, 169, 157);
+}
+.btn {
+  background-color: rgb(222, 141, 155);
+  border: none;
+  color: white;
+  border-radius: 5px;
+}
+.card {
+  width: 200px;
+  padding: 10px;
+  background-color: white;
+}
+.q {
+  margin-bottom: 50px;
+}
+.w {
+  margin-top: 100px;
+  margin-bottom: 80px;
+}
+.sate-img {
+  margin-left: o;
+  border-radius: 10px;
+}
+.box {
+  width: 1180px;
+  display: flex;
+}
+.mini {
+  margin-top: 150px;
+  margin-left: 100px;
+}
