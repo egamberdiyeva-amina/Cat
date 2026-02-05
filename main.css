@@ -1,26 +1,28 @@
 * {
   box-sizing: border-box;
 }
+body {
+  margin: 0px;
+  background-color: rgb(239, 128, 187);
+  color: rgb(0, 0, 0);
+}
 .con {
   width: 1180px;
   margin: 0 auto;
   padding: 0 20px;
+}
+.amina {
   display: flex;
   flex-wrap: wrap;
 }
-body {
-  background-color: rgb(219, 169, 157);
-}
 .k {
   width: 500px;
+  background-color: rgb(198, 158, 235);
+  color: black;
   height: 400px;
-  background-color: brown;
   padding: 15px;
   padding-top: 100px;
   border-radius: 8px;
-}
-.l {
-  background-color: brown;
 }
 .btn-two {
   border-radius: 8px;
@@ -30,7 +32,6 @@ body {
   padding-right: 10px;
 }
 .site-box {
-  background-color: brown;
   border-radius: 8px;
   margin-bottom: 50px;
 }
@@ -38,46 +39,52 @@ body {
   margin-top: 100px;
 }
 .site-two {
-  padding: 5px;
+  padding: 10px;
+  color: black;
   border-radius: 8px;
 }
 .site-logo {
+  background-color: rgb(239, 128, 187);
+  color: rgb(0, 0, 0);
   display: flex;
   text-decoration-line: none;
-  color: black;
 }
 .site-loo {
   display: flex;
+  background-color: rgb(239, 128, 187);
   text-decoration-line: none;
-  color: black;
+  color: rgb(0, 0, 0);
   margin-left: 100px;
   margin-right: 80px;
 }
 .site-log {
   text-decoration-line: none;
-  color: black;
+  background-color: rgb(239, 128, 187);
+  color: rgb(0, 0, 0);
   margin-left: 100px;
   margin-right: 100px;
 }
+.b {
+  background-color: rgb(239, 128, 187);
+}
 .site-login {
   text-decoration-line: none;
-  color: black;
+  background-color: rgb(239, 128, 187);
+  color: rgb(0, 0, 0);
   padding-left: 200px;
 }
 button {
   border: none;
-  background-color: rgb(219, 169, 157);
 }
 .btn {
-  background-color: rgb(222, 141, 155);
   border: none;
-  color: white;
+  background-color: yellow;
   border-radius: 5px;
 }
 .card {
   width: 200px;
-  padding: 10px;
   background-color: white;
+  padding: 10px;
 }
 .q {
   margin-bottom: 50px;
