@@ -45,32 +45,12 @@ body {
   color: black;
   border-radius: 8px;
 }
-.site-logo {
-  background-color: rgb(255, 255, 255);
-  color: rgb(0, 0, 0);
-  display: flex;
-  text-decoration-line: none;
-}
-.site-loo {
-  display: flex;
-  background-color: rgb(255, 255, 255);
-  text-decoration-line: none;
-  color: rgb(0, 0, 0);
-  margin-left: 100px;
-  margin-right: 80px;
-}
-.site-log {
-  text-decoration-line: none;
-  background-color: rgb(255, 255, 255);
-  color: rgb(0, 0, 0);
-  margin-left: 100px;
-  margin-right: 100px;
-}
 .b {
   background-color: rgb(255, 255, 255);
 }
 .site-login {
   text-decoration-line: none;
+  font-size: 24px;
   background-color: rgb(255, 255, 255);
   color: rgb(0, 0, 0);
   padding-left: 200px;
@@ -80,7 +60,8 @@ button {
 }
 .btn {
   border: none;
-  background-color: yellow;
+  padding: 5px;
+  background-color: rgb(244, 99, 242);
   border-radius: 5px;
 }
 .card {
